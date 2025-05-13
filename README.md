@@ -1,0 +1,1 @@
+# klasifikasi-tutupan-lahan-dengan-menggunakan-algoritma-Multi-layer-perceptron-MLP-
